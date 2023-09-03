@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anaël</h1>
-<h3 align="center">A passionate website designer and app designer from France</h3>
+<h3 align="center">Website designer and app designer from France</h3>
 
 - 🔭 I’m currently working on [PapillonApp](https://github.com/PapillonApp/Papillon)
 
